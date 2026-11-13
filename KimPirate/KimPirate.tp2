@@ -30,25 +30,25 @@ LANGUAGE ~Schinese~
 BEGIN @0
 
 COPY ~KimPirate/Cre/Kim.cre~ ~override~
-  SAY NAME1 ~Kim~
-  SAY NAME2 ~Kim~
-  SAY LEADER ~Call me Captain~
-  SAY TIRED ~I need my hammock!~
-  SAY BORED ~I chew my nails already.~
-  SAY BATTLE_CRY1 ~For the captain!~
-  SAY BATTLE_CRY2 ~Taste your own blood!~
-  SAY DAMAGE ~Ah.~
+  SAY NAME1 ~金~
+  SAY NAME2 ~金~
+  SAY LEADER ~叫我船长~
+  SAY TIRED ~我需要我的吊床！~
+  SAY BORED ~我已经在咬指甲了。~
+  SAY BATTLE_CRY1 ~为船长！~
+  SAY BATTLE_CRY2 ~尝尝你自己的血！~
+  SAY DAMAGE ~啊。~
   SAY BIO @47
-  SAY DYING ~Damned fools.~
-  SAY HURT ~A potion would help.~
-  SAY SELECT_COMMON1 ~Make it quick~
-  SAY SELECT_COMMON2 ~What?~
-  SAY SELECT_ACTION1 ~Already done.~
-  SAY SELECT_ACTION2 ~Yessir~
-  SAY CRITICAL_HIT  ~There you go~
-  SAY CRITICAL_MISS ~Damned magic~
-  SAY TARGET_IMMUNE  ~Damned magic~
-  SAY INVENTORY_FULL ~I'm not your pack mule!~
+  SAY DYING ~该死的蠢货。~
+  SAY HURT ~来瓶药水就好。~
+  SAY SELECT_COMMON1 ~快一点~
+  SAY SELECT_COMMON2 ~什么？~
+  SAY SELECT_ACTION1 ~已经办好了。~
+  SAY SELECT_ACTION2 ~是，先生~
+  SAY CRITICAL_HIT  ~就是这个~
+  SAY CRITICAL_MISS ~该死的魔法~
+  SAY TARGET_IMMUNE  ~该死的魔法~
+  SAY INVENTORY_FULL ~我不是你的驮骡！~
 
 
 COPY ~KimPirate/Cre/VampKim.cre~ ~override~
